@@ -1,7 +1,7 @@
 .sidor{
     display: flex;
     background-color: aqua;
-    justify-content: space-evenly
+    justify-content: space-evenly;
 }
 
 body{
@@ -14,4 +14,15 @@ body{
 
 .text{
     color: black;
+}
+
+.smallText{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
 }
