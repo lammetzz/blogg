@@ -1,28 +1,51 @@
-.sidor{
+.sidor
+{
     display: flex;
-    background-color: aqua;
+    background-color: rgb(237, 120, 24);
     justify-content: space-evenly;
 }
 
-body{
+body
+{
     background-color: s;
 }
 
-.margin{
+.margin
+{
     margin: 0%;
 }
 
-.text{
+.text
+{
     color: black;
 }
 
-.smallText{
+.smallText
+{
     margin-left: 50px;
+    margin-top: 50px;
     display: flex;
     justify-content: center;
 }
 
-.center{
+.center
+{
     display: flex;
     justify-content: center;
+    margin: 100px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.textMargin
+{
+    margin-bottom: 25px;
+}
+
+.img
+{
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    margin-bottom: 25px;
 }
