@@ -23,7 +23,8 @@ body
 .smallText
 {
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
     justify-content: center;
 }
@@ -54,4 +55,36 @@ h3
 {
     margin-top: 0px;
     margin-bottom: 15px;
+}
+
+.imgLink
+{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.img2
+{
+    width: 300px;
+    height: 300px;
+}
+
+.center
+{
+    display: flex;
+    justify-content: center;
+}
+
+.noMargin
+{
+    margin-top: 0px;
+}
+
+.imgMargin
+{
+    margin-left: 25px;
+    margin-right: 25px;
 }
